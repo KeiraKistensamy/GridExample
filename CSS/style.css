@@ -10,6 +10,7 @@ header, footer {
 }
 main {
     background-color: brown;
+    background-color: burlywood;
 }
 .Grid-Parent{
      display: grid;
